@@ -1,2 +1,2 @@
 # solving_problem
-solving problem form codesignal
+solving problem form codesignal by kotlin
